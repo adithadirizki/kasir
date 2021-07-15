@@ -1,5 +1,3 @@
-# CodeIgniter 4 Framework
-
 ## How to install?
 
 `git clone https://github.com/adithadirizki/kasir`
